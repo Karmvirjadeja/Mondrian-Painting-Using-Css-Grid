@@ -1,1 +1,1 @@
-creating a Mondrian art work using css grid 
+ Mondrian art work using css grid 
